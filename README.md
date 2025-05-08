@@ -15,6 +15,7 @@ Error Handling: Robust handling of invalid inputs and file operations.
 Project Structure
 
 Main Components:
+
 SHA256: A simplified class for hashing passwords (note: in production, use a cryptographically secure library like OpenSSL).
 Validator: Validates usernames and passwords based on predefined rules.
 PasswordHasher: Generates random salts and hashes passwords with salts.
