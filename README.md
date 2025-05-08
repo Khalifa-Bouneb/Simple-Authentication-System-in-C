@@ -35,21 +35,6 @@ C++11 or later
 A C++ compiler (e.g., g++, clang++)
 Standard C++ libraries (included in the code)
 
-Installation
-
-Clone the repository:git clone https://github.com/your-username/auth-system.git
-
-
-Navigate to the project directory:cd auth-system
-
-
-Compile the code:g++ -std=c++11 main.cpp -o auth_system
-
-
-Run the program:./auth_system
-
-
-
 Usage
 
 Run the Program:
