@@ -55,7 +55,7 @@ File Structure:
 1. Clone the repository:
 
 ```bash
-$ git clone https://github.com/yourusername/cpp-auth-system.git
+$ git clone https://github.com/Khalifa-Bouneb/Simple-Authentication-System-in-C
 ```
 
 2. Navigate to the project directory:
